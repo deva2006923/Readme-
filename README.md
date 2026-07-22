@@ -167,8 +167,10 @@ Built interactive and innovative websites during internship at **LetsGame Tech, 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deva2006923&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=deva2006923&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" width="100%"/>
 </div>
+
+> 📌 Trophies fill in and unlock as your GitHub activity (commits, stars, followers, repos) grows — a new account will show them mostly locked at first.
 
 <br/>
 
@@ -179,10 +181,11 @@ Built interactive and innovative websites during internship at **LetsGame Tech, 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/deva2006923/deva2006923/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:6A11CB&height=100&section=header&text=Snake%20Activates%20After%20One-Time%20Setup%20%E2%86%93&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
-> ⚙️ This animated snake needs a one-time GitHub Actions setup — see the note at the bottom of this README.
+> ⚙️ This section is a placeholder — the real animated snake needs a one-time GitHub Actions setup (steps at the bottom of this README). Once you complete it, replace the image above with:
+> `https://raw.githubusercontent.com/deva2006923/deva2006923/output/github-contribution-grid-snake-dark.svg`
 
 <br/>
 
