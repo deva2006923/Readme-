@@ -148,15 +148,16 @@ Built interactive and innovative websites during internship at **LetsGame Tech, 
 
 <div align="center">
 
-<img src="https://leetcode-stats-eddiewang.onrender.com/deva_060706" width="70%" />
+<img src="https://leetcard.jacoblin.cool/deva_060706?theme=dark&font=baloo2&ext=activity" width="100%" />
 
 <br/><br/>
 
-<img src="https://leetcard.jacoblin.cool/deva_060706?theme=nord&font=baloo2&ext=activity" width="70%" />
+<img src="https://leetcard.jacoblin.cool/deva_060706?theme=dark&font=baloo2&ext=heatmap" width="100%" />
 
 </div>
 
-> 📌 Both cards pull live from my LeetCode profile: [leetcode.com/u/deva_060706](https://leetcode.com/u/deva_060706/)
+> 📌 Both graphs pull live from my LeetCode profile: [leetcode.com/u/deva_060706](https://leetcode.com/u/deva_060706/)
+> If a card doesn't load on first try, just refresh the page — the card service occasionally takes a moment to generate.
 
 <br/>
 
@@ -265,3 +266,4 @@ jobs:
 3. Commit and push — after the Action runs once, the snake image in this README will appear automatically.
 
 </details>
+
