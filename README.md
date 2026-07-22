@@ -157,45 +157,11 @@ Built interactive and innovative websites during internship at **LetsGame Tech, 
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/deva_060706?theme=dark&font=baloo2&ext=activity" width="100%" />
-
-<br/><br/>
-
 <img src="https://leetcard.jacoblin.cool/deva_060706?theme=dark&font=baloo2&ext=heatmap" width="100%" />
 
 </div>
 
-> 📌 Both graphs pull live from my LeetCode profile: [leetcode.com/u/deva_060706](https://leetcode.com/u/deva_060706/)
-> If a card doesn't load on first try, just refresh the page — the card service occasionally takes a moment to generate.
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="4px"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deva2006923&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" width="100%"/>
-</div>
-
-> 📌 Trophies fill in and unlock as your GitHub activity (commits, stars, followers, repos) grows — a new account will show them mostly locked at first.
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="4px"/>
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:6A11CB&height=100&section=header&text=Snake%20Activates%20After%20One-Time%20Setup%20%E2%86%93&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</div>
-
-> ⚙️ This section is a placeholder — the real animated snake needs a one-time GitHub Actions setup (steps at the bottom of this README). Once you complete it, replace the image above with:
-> `https://raw.githubusercontent.com/deva2006923/deva2006923/output/github-contribution-grid-snake-dark.svg`
+> 📌 Pulled live from my LeetCode profile: [leetcode.com/u/deva_060706](https://leetcode.com/u/deva_060706/)
 
 <br/>
 
@@ -230,48 +196,3 @@ Built interactive and innovative websites during internship at **LetsGame Tech, 
 <div align="center">
   <b>💬 Let's connect and build something amazing with AI!</b>
 </div>
-
-<br/>
-
-<details>
-<summary>⚙️ One-time setup: enabling the contribution snake</summary>
-
-<br/>
-
-The snake animation needs a small GitHub Actions workflow to generate it. In your `deva2006923/deva2006923` repo:
-
-1. Create `.github/workflows/snake.yml`
-2. Paste this in:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: deva2006923
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ "{{ secrets.GITHUB_TOKEN }}" }}
-```
-
-3. Commit and push — after the Action runs once, the snake image in this README will appear automatically.
-
-</details>
