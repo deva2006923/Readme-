@@ -128,9 +128,7 @@ Built interactive and innovative websites during internship at **LetsGame Tech, 
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva2006923&layout=compact&theme=tokyonight&border_radius=15&hide_border=true" width="48%" />
-
-<img src="https://leetcard.jacoblin.cool/deva_060706?theme=dark&font=baloo2&ext=heatmap" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva2006923&layout=compact&theme=tokyonight&border_radius=15&hide_border=true" width="90%" />
 
 </div>
 
@@ -263,4 +261,4 @@ jobs:
 
 3. Commit and push — after the Action runs once, the snake image in this README will appear automatically.
 
-</details># Readme-
+</details>
