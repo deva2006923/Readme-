@@ -124,7 +124,7 @@ Built interactive and innovative websites during internship at **LetsGame Tech, 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=deva2006923&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deva2006923&theme=tokyonight&border_radius=15&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=deva2006923&theme=tokyonight&border_radius=15&hide_border=true" width="48%" />
 
 <br/>
 
@@ -136,6 +136,15 @@ Built interactive and innovative websites during internship at **LetsGame Tech, 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deva2006923&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📅 Contribution Heatmap
+<img src="https://ghchart.rshah.org/6A11CB/deva2006923" width="100%"/>
+
 </div>
 
 <br/>
@@ -266,4 +275,3 @@ jobs:
 3. Commit and push — after the Action runs once, the snake image in this README will appear automatically.
 
 </details>
-
